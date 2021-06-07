@@ -3,9 +3,10 @@
 main{
     display: flex;
     flex-direction: column;
+    align-content: justify;
+    box-sizing: border-box;
     
-    max-width: 370px;
-    width: 100%;
+    max-width: 1300px;
 }
 
 nav{
@@ -18,23 +19,26 @@ nav{
 
 img{
     width: 600px; 
-    padding:5px 65px;
+    padding:15px 65px;
 }
 
 .legend{
-    display: inline-grid;
-    justify-content: center;
+    
     font-family: "Space Mono", "sans-serif";
-    padding:5px 15px;
+    padding:15px 15px;
+    ;
 }
 
-h1{
-    font-size: 3rem;
+.legend h1{
+    font-size: 2vh;
+    text-align: justify;
+    width: 100%
     
 }
 
 .legend p{
-    font-size: 1.5em;
+    font-size: 1.2em;
+    width: 100%
 }
 
 footer{
@@ -60,3 +64,14 @@ button{
     width: 45%;
 }
 
+@media (min-width:900px){
+    main{ 
+        display: flex;
+        flex-direction: row;
+    
+    }
+
+    nav{
+        display: inline-flex;
+    }
+}
