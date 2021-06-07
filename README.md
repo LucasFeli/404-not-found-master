@@ -28,5 +28,5 @@
 ## Contact
 
 
-- GitHub [LucasFeli](https://{github.com/your-usermame)
+- GitHub [LucasFeli](https://github.com/your-usermame)
 
