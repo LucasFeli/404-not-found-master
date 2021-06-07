@@ -68,10 +68,24 @@ button{
     main{ 
         display: flex;
         flex-direction: row;
-    
+        align-content: space-around;
     }
 
     nav{
         display: inline-flex;
+        font-size: 2vh;
+        padding:10px 15px;
     }
+
+    .legend h1{
+        font-size: 5vh;
+        text-align: justify;
+        width: 100%
+        
+    }
+    .legend p{
+        font-size: 2em;
+        width: 100%
+    }
+    
 }
