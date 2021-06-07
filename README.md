@@ -6,7 +6,7 @@
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 </div>
 
-<div align="center">
+<div align="center"> 
   <h3>
     <a href="https://lucasfeli.github.io/404-not-found-master/">
       Demo
@@ -28,5 +28,5 @@
 ## Contact
 
 
-- GitHub [LucasFeli](https://{github.com/your-usermame})
+- GitHub [LucasFeli](https://{github.com/your-usermame)
 
