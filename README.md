@@ -29,5 +29,5 @@
 
 
 - GitHub [LucasFeli](https://github.com/LucasFeli)
-- Linkedin[LuisFelipeMosquera](www.linkedin.com/in/felipemosquera)
+- Linkedin[LuisFelipeMosquera](https://www.linkedin.com/in/felipemosquera/)
 
