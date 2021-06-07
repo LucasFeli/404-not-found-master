@@ -28,5 +28,6 @@
 ## Contact
 
 
-- GitHub [LucasFeli](https://github.com/your-usermame)
+- GitHub [LucasFeli](https://github.com/LucasFeli)
+- Linkedin[LuisFelipeMosquera](www.linkedin.com/in/felipemosquera)
 
